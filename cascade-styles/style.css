@@ -207,7 +207,7 @@
     margin-bottom: 70px;
 }
 
-.current-card-container {
+.current-card-box {
     display: flex;
     justify-content: space-between;
     align-items: center;
