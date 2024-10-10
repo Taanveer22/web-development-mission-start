@@ -23,6 +23,12 @@
     margin: 0 auto;
 }
 
+.container-3 {
+    width: 95%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 .section-title {
     color: rgb(13, 19, 33);
     font-size: 27px;
@@ -297,6 +303,7 @@
     padding: 15px 30px;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 8px;
+    border: none;
     width: 550px;
     background: #FFF;
 }
@@ -306,5 +313,37 @@
     font-size: 16px;
     font-weight: 700;
     border-radius: 8px;
+    border: none;
     background: #FFF;
+}
+
+
+
+/* ****************************** */
+/* footer related styles */
+/* ****************************** */
+
+#footer-section {
+    max-width: 1440px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    padding: 25px 100px;
+}
+
+.footer-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-text h5 {
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footer-icons img{
+    max-width: 36px;
+    max-height: 36px;
 }
