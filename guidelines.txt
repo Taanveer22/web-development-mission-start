@@ -1,0 +1,8 @@
+0. navigation part - optional
+1. banner part(clickable link) - main
+2. coding part - main
+3. inspiration part - main
+4. current target part (clickable link) - main 
+5. next target part - optional
+6. support part - main
+7. footer part(clickable link) - challenge/bonus
