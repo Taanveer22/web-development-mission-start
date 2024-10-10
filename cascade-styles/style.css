@@ -51,6 +51,43 @@
 
 
 
+/* ****************************** */
+/* navigation related styles */
+/* ***************************** */
+
+nav {
+    width: 80%;
+    max-width: 1140px;
+    margin: 36px auto;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.nav-heading {
+    color: #0D1321;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.nav-button {
+    color: #0D1321;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0%;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    max-width: 207px;
+    padding: 15px 15px;
+}
+
+
+
 /* ************************************ */
 /* hero section related styles */
 /* ************************************ */
@@ -104,7 +141,6 @@
     background: rgb(13, 19, 33);
     max-width: 207px;
     padding: 15px 15px;
-
 }
 
 
@@ -174,6 +210,7 @@
 .code-photo img {
     max-width: 206px;
 }
+
 
 
 /* ************************************* */
@@ -261,6 +298,7 @@
 }
 
 
+
 /* ********************************* */
 /* support-section related styles */
 /* *********************************** */
@@ -343,7 +381,7 @@
     font-weight: 600;
 }
 
-.footer-icons img{
+.footer-icons img {
     max-width: 36px;
     max-height: 36px;
 }

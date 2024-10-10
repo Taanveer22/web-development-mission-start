@@ -1,4 +1,4 @@
-0. navigation part - optional
+0. navigation part - optional - done
 1. banner part(clickable link) - main - done
 2. coding part - main - done
 3. inspiration part - main - done
